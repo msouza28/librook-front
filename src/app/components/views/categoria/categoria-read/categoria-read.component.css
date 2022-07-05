@@ -17,3 +17,23 @@
 .table{
     width: 100%;
 }
+
+.edit{
+    color: darkorange;
+}
+.delete{
+    color: rgb(209, 19, 19);
+    margin-left: .5rem;
+}
+.book{
+    color: rgb(81, 82, 81);
+    margin-left: .6rem;
+}
+
+.mat-header {
+    width: 5rem;
+}
+
+.botao{
+    margin-bottom: .8rem;
+}
