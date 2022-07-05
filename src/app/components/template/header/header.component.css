@@ -1,0 +1,14 @@
+img {
+    height: 3rem;
+}
+
+.header {
+    justify-content: center;
+    height: 12%;
+    background-color: rgb(138, 57, 0);
+}
+h1 {
+    padding: 20px;
+    font-size: 1.5rem;
+    color: white;
+}
