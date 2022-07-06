@@ -1,0 +1,38 @@
+form { 
+    text-align: center;
+    width: 70%;
+    margin: 2rem auto 0 auto;
+
+}
+
+.title h1{
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: 500;
+    color: aliceblue;
+    margin: 1.5rem;
+}
+
+mat-label{
+    color: aliceblue;
+    font-size: medium;
+}
+::placeholder{
+    color: rgb(224, 126, 13);
+}
+
+.form{
+    width: 100%;
+    color: aliceblue;
+}
+
+.button{
+    width: 100%;
+    text-align: start;
+}
+
+button{
+    margin-right: 0.8rem;
+    padding: auto 2rem;
+}
+

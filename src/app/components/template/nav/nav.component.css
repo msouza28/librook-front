@@ -3,8 +3,13 @@
     background-color: rgb(65, 44, 44);
 }
 .side-nav{
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(66, 51, 51);
 }
 i {
     padding-right: 0.6rem;
+    color: aliceblue;
 }
+.container a{
+    color: aliceblue;
+}
+
