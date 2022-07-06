@@ -25,5 +25,8 @@ export class CategoriaCreateComponent implements OnInit {
       this.service.mensagem('Categoria criada com sucesso!');
     })
   }
-
+ 
+  cancel(): void {
+    this.router.navigate(['categorias']);
+  }
 }
