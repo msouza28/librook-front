@@ -26,17 +26,6 @@ mat-label{
     color: aliceblue;
     
 }
-.form mat-label{
-    font-size: large;  
-  }
-.form input {
-    color: aliceblue;
-    margin-top: .8rem;
-}
-.form textarea {
-    color: aliceblue;
-    margin-top: .8rem;
-}
 
 .button{
     width: 100%;
@@ -47,4 +36,15 @@ button{
     margin-right: 0.8rem;
     padding: auto 2rem;
 }
+.form mat-label{
+  font-size: large;  
+}
 
+.form input {
+    color: aliceblue;
+    margin-top: .8rem;
+}
+.form textarea {
+    color: aliceblue;
+    margin-top: .8rem;
+}
